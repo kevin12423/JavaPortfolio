@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by kevin_000 on 2/8/2016.
+ * Sentinel Value
  */
 public class GeometryCalculatorDriver
 {
