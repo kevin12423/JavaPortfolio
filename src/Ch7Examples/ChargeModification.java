@@ -2,7 +2,6 @@ import java.io.File;
 
 /**
  * Created by kevin_000 on 2/16/2016.
- * Selection Sort - 3pts
  o	While loop - 3pts
  */
 public class ChargeModification
