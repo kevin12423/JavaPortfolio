@@ -2,6 +2,11 @@ import org.w3c.dom.ranges.RangeException;
 
 /**
  * Created by kevin_000 on 2/23/2016.
+ * Throwing Exceptions
+ •	The this reference variable
+ •	Override the toString method
+ •	Overriding the equals method
+ •	Comparing strings
  */
 public class Month
 {
