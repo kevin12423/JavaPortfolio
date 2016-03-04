@@ -1,5 +1,6 @@
 /**
  * Created by kevin_000 on 2/4/2016.
+ * Aggregation
  */
 public class Carpet2
 {
