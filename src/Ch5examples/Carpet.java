@@ -1,5 +1,7 @@
 /**
  * Created by kevin_000 on 2/4/2016.
+ * Instance fields
+ •	Constructors
  */
 public class Carpet
 {
