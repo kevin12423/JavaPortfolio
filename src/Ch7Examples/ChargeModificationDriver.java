@@ -2,6 +2,8 @@ import java.util.Scanner;
 import java.io.*;
 /**
  * Created by kevin_000 on 2/16/2016.
+ * Arrays - 3pts
+ •	ArrayList - 3pts
  */
 public class ChargeModificationDriver
 {
