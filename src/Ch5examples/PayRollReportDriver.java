@@ -1,5 +1,9 @@
 /**
  * Created by kevin_000 on 2/1/2016.
+ * If - 3pts
+ o	If-else - 3pts
+ •	Formatting numbers with DecimalFormat
+ o	Do-while loop - 3pts
  */
 
 import java.text.DecimalFormat;
