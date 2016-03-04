@@ -1,5 +1,6 @@
 /**
  * Created by kevin_000 on 2/18/2016.
+ * Extends parent
  */
 public class CourseGrades extends GradedActivity
 {
